@@ -1,1 +1,1 @@
-Soke feature 1 testing
+Smoke feature 1 testing
